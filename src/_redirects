@@ -1,4 +1,4 @@
 /hello/ /hello/?utm_source=foo 200!
-/hey/ /goodbye/ 200!
+/hey/ /goodbye/ 200
 
 /first/ /seconds/ 301!
